@@ -19,10 +19,16 @@ namespace MOSWdeploy
             StudentGroup gr10=new StudentGroup("gr10",15);
             StudentGroup gr12=new StudentGroup("gr12",15);
 
+            // create file backup
+            gr10.SaveToFile();
+            gr12.SaveToFile();
+
             // FileZilla generation
             FileZillaConf fzConf=new FileZillaConf(pathBase,pathOut,baseDirFTP,userTemplate);
             fzConf.AddGroup(gr10);
             fzConf.AddGroup(gr12);
+
+
 
             // Writing config file
             Console.WriteLine("Saving XML config file");

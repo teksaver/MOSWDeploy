@@ -50,7 +50,7 @@ namespace MOSWdeploy
 
         public void AddGroup(StudentGroup group)
         {
-            this.idGroupList.Add(group.ClassId);
+            this.idGroupList.Add(group.GroupId);
             // Add admin XML User element 
             XElement admin = createXMLUser(group.admin);
             // Admin only needs access to base dir, does not have own dir
