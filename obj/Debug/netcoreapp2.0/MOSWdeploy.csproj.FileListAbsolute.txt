@@ -1,0 +1,10 @@
+/Users/sylvain/Progra/DotNetCore2/MOSWdeploy/bin/Debug/netcoreapp2.0/MOSWdeploy.deps.json
+/Users/sylvain/Progra/DotNetCore2/MOSWdeploy/bin/Debug/netcoreapp2.0/MOSWdeploy.runtimeconfig.json
+/Users/sylvain/Progra/DotNetCore2/MOSWdeploy/bin/Debug/netcoreapp2.0/MOSWdeploy.runtimeconfig.dev.json
+/Users/sylvain/Progra/DotNetCore2/MOSWdeploy/bin/Debug/netcoreapp2.0/MOSWdeploy.dll
+/Users/sylvain/Progra/DotNetCore2/MOSWdeploy/bin/Debug/netcoreapp2.0/MOSWdeploy.pdb
+/Users/sylvain/Progra/DotNetCore2/MOSWdeploy/obj/Debug/netcoreapp2.0/MOSWdeploy.csproj.CoreCompileInputs.cache
+/Users/sylvain/Progra/DotNetCore2/MOSWdeploy/obj/Debug/netcoreapp2.0/MOSWdeploy.AssemblyInfoInputs.cache
+/Users/sylvain/Progra/DotNetCore2/MOSWdeploy/obj/Debug/netcoreapp2.0/MOSWdeploy.AssemblyInfo.cs
+/Users/sylvain/Progra/DotNetCore2/MOSWdeploy/obj/Debug/netcoreapp2.0/MOSWdeploy.dll
+/Users/sylvain/Progra/DotNetCore2/MOSWdeploy/obj/Debug/netcoreapp2.0/MOSWdeploy.pdb
