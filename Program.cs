@@ -14,25 +14,29 @@ namespace MOSWdeploy
             string pathOut = Path.Combine("Files", @"FileZilla Server.xml");
             string baseDirFTP= @"c:\projetsweb\";
             string userTemplate = Path.Combine("Files", "ReadOnly", @"FZConfUserTemplate.xml");
+            string mySQLOutDir="Files";
+
+            // load existing groups
+            StudentGroup gr10= StudentGroup.LoadFromFile("gr10");
+            StudentGroup gr12= StudentGroup.LoadFromFile("gr12");
 
             // groups creation
-            StudentGroup gr10=new StudentGroup("gr10",15);
-            StudentGroup gr12=new StudentGroup("gr12",15);
+//            StudentGroup gr12=new StudentGroup("gr12",15);
 
             // create file backup
-            gr10.SaveToFile();
-            gr12.SaveToFile();
+//            gr12.SaveToFile();
 
             // FileZilla generation
             FileZillaConf fzConf=new FileZillaConf(pathBase,pathOut,baseDirFTP,userTemplate);
             fzConf.AddGroup(gr10);
             fzConf.AddGroup(gr12);
 
-
-
             // Writing config file
             Console.WriteLine("Saving XML config file");
             fzConf.WriteXML();
+
+            // MySQL generation
+            MySQLConf.GenerateDBFile(gr10,mySQLOutDir);
         }
     }
 }
