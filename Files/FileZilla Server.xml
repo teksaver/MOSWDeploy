@@ -6,8 +6,8 @@
     </Settings>
   </FileZillaServer>
   <Users>
-    <User Name="gr101EtyR">
-      <Option Name="Pass">faa74e69897a580a313e68dd89eae8e4</Option>
+    <User Name="gr1001wpqQ">
+      <Option Name="Pass">25cd6f9689fa81361dbacd9e18986477</Option>
       <Option Name="Group"></Option>
       <Option Name="Bypass server userlimit">0</Option>
       <Option Name="User Limit">0</Option>
@@ -21,7 +21,7 @@
         <Allowed />
       </IpFilter>
       <Permissions>
-        <Permission Dir="c:\projetsweb\gr101EtyR">
+        <Permission Dir="c:\projetsweb\gr1001wpqQ">
           <Option Name="FileRead">1</Option>
           <Option Name="FileWrite">1</Option>
           <Option Name="FileDelete">1</Option>
@@ -39,8 +39,8 @@
         <Upload />
       </SpeedLimits>
     </User>
-    <User Name="gr102Esmm">
-      <Option Name="Pass">73fd415c11abe468ed37bcfe737b735d</Option>
+    <User Name="gr1002Rfjs">
+      <Option Name="Pass">6f00a8281e97bcb7ef6b270d750d1700</Option>
       <Option Name="Group"></Option>
       <Option Name="Bypass server userlimit">0</Option>
       <Option Name="User Limit">0</Option>
@@ -54,7 +54,7 @@
         <Allowed />
       </IpFilter>
       <Permissions>
-        <Permission Dir="c:\projetsweb\gr102Esmm">
+        <Permission Dir="c:\projetsweb\gr1002Rfjs">
           <Option Name="FileRead">1</Option>
           <Option Name="FileWrite">1</Option>
           <Option Name="FileDelete">1</Option>
@@ -72,8 +72,8 @@
         <Upload />
       </SpeedLimits>
     </User>
-    <User Name="gr1038g6b">
-      <Option Name="Pass">e229bbffc2d48ed1db2d656ab6f91f3e</Option>
+    <User Name="gr1003PhEa">
+      <Option Name="Pass">0ef6d7e91feb79f665c16ee6cd51431d</Option>
       <Option Name="Group"></Option>
       <Option Name="Bypass server userlimit">0</Option>
       <Option Name="User Limit">0</Option>
@@ -87,7 +87,7 @@
         <Allowed />
       </IpFilter>
       <Permissions>
-        <Permission Dir="c:\projetsweb\gr1038g6b">
+        <Permission Dir="c:\projetsweb\gr1003PhEa">
           <Option Name="FileRead">1</Option>
           <Option Name="FileWrite">1</Option>
           <Option Name="FileDelete">1</Option>
@@ -105,8 +105,8 @@
         <Upload />
       </SpeedLimits>
     </User>
-    <User Name="gr104RGii">
-      <Option Name="Pass">166e7943da253db5e76d4d39b57b6c34</Option>
+    <User Name="gr1004EszV">
+      <Option Name="Pass">22885579117ede57e3abfa9d89aff04c</Option>
       <Option Name="Group"></Option>
       <Option Name="Bypass server userlimit">0</Option>
       <Option Name="User Limit">0</Option>
@@ -120,7 +120,7 @@
         <Allowed />
       </IpFilter>
       <Permissions>
-        <Permission Dir="c:\projetsweb\gr104RGii">
+        <Permission Dir="c:\projetsweb\gr1004EszV">
           <Option Name="FileRead">1</Option>
           <Option Name="FileWrite">1</Option>
           <Option Name="FileDelete">1</Option>
@@ -138,8 +138,8 @@
         <Upload />
       </SpeedLimits>
     </User>
-    <User Name="gr105kRbt">
-      <Option Name="Pass">8cd0033db5f3af002888cb81d9ff3aac</Option>
+    <User Name="gr1005m3bs">
+      <Option Name="Pass">776a2354403fcbe998ce5df58215ea5c</Option>
       <Option Name="Group"></Option>
       <Option Name="Bypass server userlimit">0</Option>
       <Option Name="User Limit">0</Option>
@@ -153,7 +153,7 @@
         <Allowed />
       </IpFilter>
       <Permissions>
-        <Permission Dir="c:\projetsweb\gr105kRbt">
+        <Permission Dir="c:\projetsweb\gr1005m3bs">
           <Option Name="FileRead">1</Option>
           <Option Name="FileWrite">1</Option>
           <Option Name="FileDelete">1</Option>
@@ -171,8 +171,8 @@
         <Upload />
       </SpeedLimits>
     </User>
-    <User Name="gr106QvZd">
-      <Option Name="Pass">ba28acaa1845937bf87d0721b61e1370</Option>
+    <User Name="gr1006Fm9N">
+      <Option Name="Pass">94636a86ea710549b29e07ce62605500</Option>
       <Option Name="Group"></Option>
       <Option Name="Bypass server userlimit">0</Option>
       <Option Name="User Limit">0</Option>
@@ -186,7 +186,7 @@
         <Allowed />
       </IpFilter>
       <Permissions>
-        <Permission Dir="c:\projetsweb\gr106QvZd">
+        <Permission Dir="c:\projetsweb\gr1006Fm9N">
           <Option Name="FileRead">1</Option>
           <Option Name="FileWrite">1</Option>
           <Option Name="FileDelete">1</Option>
@@ -204,8 +204,8 @@
         <Upload />
       </SpeedLimits>
     </User>
-    <User Name="gr107WrNQ">
-      <Option Name="Pass">63cc0f4641397791fd9d57f674994405</Option>
+    <User Name="gr1007AjWR">
+      <Option Name="Pass">af405c3538ef7f4c8829ca3bffe6f8c8</Option>
       <Option Name="Group"></Option>
       <Option Name="Bypass server userlimit">0</Option>
       <Option Name="User Limit">0</Option>
@@ -219,7 +219,7 @@
         <Allowed />
       </IpFilter>
       <Permissions>
-        <Permission Dir="c:\projetsweb\gr107WrNQ">
+        <Permission Dir="c:\projetsweb\gr1007AjWR">
           <Option Name="FileRead">1</Option>
           <Option Name="FileWrite">1</Option>
           <Option Name="FileDelete">1</Option>
@@ -237,8 +237,8 @@
         <Upload />
       </SpeedLimits>
     </User>
-    <User Name="gr108jkrH">
-      <Option Name="Pass">969101b1f71080c90a8424ec87ea3edf</Option>
+    <User Name="gr1008TTkt">
+      <Option Name="Pass">ae6c352881235a177161e99bc2358c72</Option>
       <Option Name="Group"></Option>
       <Option Name="Bypass server userlimit">0</Option>
       <Option Name="User Limit">0</Option>
@@ -252,7 +252,7 @@
         <Allowed />
       </IpFilter>
       <Permissions>
-        <Permission Dir="c:\projetsweb\gr108jkrH">
+        <Permission Dir="c:\projetsweb\gr1008TTkt">
           <Option Name="FileRead">1</Option>
           <Option Name="FileWrite">1</Option>
           <Option Name="FileDelete">1</Option>
@@ -270,239 +270,8 @@
         <Upload />
       </SpeedLimits>
     </User>
-    <User Name="gr109kniy">
-      <Option Name="Pass">409f93b778ff8828a3f9dbbdde97b12e</Option>
-      <Option Name="Group"></Option>
-      <Option Name="Bypass server userlimit">0</Option>
-      <Option Name="User Limit">0</Option>
-      <Option Name="IP Limit">0</Option>
-      <Option Name="Enabled">1</Option>
-      <Option Name="Comments"></Option>
-      <Option Name="ForceSsl">0</Option>
-      <Option Name="8plus3">0</Option>
-      <IpFilter>
-        <Disallowed />
-        <Allowed />
-      </IpFilter>
-      <Permissions>
-        <Permission Dir="c:\projetsweb\gr109kniy">
-          <Option Name="FileRead">1</Option>
-          <Option Name="FileWrite">1</Option>
-          <Option Name="FileDelete">1</Option>
-          <Option Name="FileAppend">1</Option>
-          <Option Name="DirCreate">1</Option>
-          <Option Name="DirDelete">1</Option>
-          <Option Name="DirList">1</Option>
-          <Option Name="DirSubdirs">1</Option>
-          <Option Name="IsHome">1</Option>
-          <Option Name="AutoCreate">0</Option>
-        </Permission>
-      </Permissions>
-      <SpeedLimits DlType="0" DlLimit="10" ServerDlLimitBypass="0" UlType="0" UlLimit="10" ServerUlLimitBypass="0">
-        <Download />
-        <Upload />
-      </SpeedLimits>
-    </User>
-    <User Name="gr1010CCoM">
-      <Option Name="Pass">1c22387226e70aa681753c0278144d0e</Option>
-      <Option Name="Group"></Option>
-      <Option Name="Bypass server userlimit">0</Option>
-      <Option Name="User Limit">0</Option>
-      <Option Name="IP Limit">0</Option>
-      <Option Name="Enabled">1</Option>
-      <Option Name="Comments"></Option>
-      <Option Name="ForceSsl">0</Option>
-      <Option Name="8plus3">0</Option>
-      <IpFilter>
-        <Disallowed />
-        <Allowed />
-      </IpFilter>
-      <Permissions>
-        <Permission Dir="c:\projetsweb\gr1010CCoM">
-          <Option Name="FileRead">1</Option>
-          <Option Name="FileWrite">1</Option>
-          <Option Name="FileDelete">1</Option>
-          <Option Name="FileAppend">1</Option>
-          <Option Name="DirCreate">1</Option>
-          <Option Name="DirDelete">1</Option>
-          <Option Name="DirList">1</Option>
-          <Option Name="DirSubdirs">1</Option>
-          <Option Name="IsHome">1</Option>
-          <Option Name="AutoCreate">0</Option>
-        </Permission>
-      </Permissions>
-      <SpeedLimits DlType="0" DlLimit="10" ServerDlLimitBypass="0" UlType="0" UlLimit="10" ServerUlLimitBypass="0">
-        <Download />
-        <Upload />
-      </SpeedLimits>
-    </User>
-    <User Name="gr1011eeKf">
-      <Option Name="Pass">ce45919246bbe1dea26b1dc71c8f8d02</Option>
-      <Option Name="Group"></Option>
-      <Option Name="Bypass server userlimit">0</Option>
-      <Option Name="User Limit">0</Option>
-      <Option Name="IP Limit">0</Option>
-      <Option Name="Enabled">1</Option>
-      <Option Name="Comments"></Option>
-      <Option Name="ForceSsl">0</Option>
-      <Option Name="8plus3">0</Option>
-      <IpFilter>
-        <Disallowed />
-        <Allowed />
-      </IpFilter>
-      <Permissions>
-        <Permission Dir="c:\projetsweb\gr1011eeKf">
-          <Option Name="FileRead">1</Option>
-          <Option Name="FileWrite">1</Option>
-          <Option Name="FileDelete">1</Option>
-          <Option Name="FileAppend">1</Option>
-          <Option Name="DirCreate">1</Option>
-          <Option Name="DirDelete">1</Option>
-          <Option Name="DirList">1</Option>
-          <Option Name="DirSubdirs">1</Option>
-          <Option Name="IsHome">1</Option>
-          <Option Name="AutoCreate">0</Option>
-        </Permission>
-      </Permissions>
-      <SpeedLimits DlType="0" DlLimit="10" ServerDlLimitBypass="0" UlType="0" UlLimit="10" ServerUlLimitBypass="0">
-        <Download />
-        <Upload />
-      </SpeedLimits>
-    </User>
-    <User Name="gr1012bij6">
-      <Option Name="Pass">892997a23f82d6e9dfdc4791d714eff8</Option>
-      <Option Name="Group"></Option>
-      <Option Name="Bypass server userlimit">0</Option>
-      <Option Name="User Limit">0</Option>
-      <Option Name="IP Limit">0</Option>
-      <Option Name="Enabled">1</Option>
-      <Option Name="Comments"></Option>
-      <Option Name="ForceSsl">0</Option>
-      <Option Name="8plus3">0</Option>
-      <IpFilter>
-        <Disallowed />
-        <Allowed />
-      </IpFilter>
-      <Permissions>
-        <Permission Dir="c:\projetsweb\gr1012bij6">
-          <Option Name="FileRead">1</Option>
-          <Option Name="FileWrite">1</Option>
-          <Option Name="FileDelete">1</Option>
-          <Option Name="FileAppend">1</Option>
-          <Option Name="DirCreate">1</Option>
-          <Option Name="DirDelete">1</Option>
-          <Option Name="DirList">1</Option>
-          <Option Name="DirSubdirs">1</Option>
-          <Option Name="IsHome">1</Option>
-          <Option Name="AutoCreate">0</Option>
-        </Permission>
-      </Permissions>
-      <SpeedLimits DlType="0" DlLimit="10" ServerDlLimitBypass="0" UlType="0" UlLimit="10" ServerUlLimitBypass="0">
-        <Download />
-        <Upload />
-      </SpeedLimits>
-    </User>
-    <User Name="gr1013UKMi">
-      <Option Name="Pass">771628dae776801cad0c4a70eb10b9d9</Option>
-      <Option Name="Group"></Option>
-      <Option Name="Bypass server userlimit">0</Option>
-      <Option Name="User Limit">0</Option>
-      <Option Name="IP Limit">0</Option>
-      <Option Name="Enabled">1</Option>
-      <Option Name="Comments"></Option>
-      <Option Name="ForceSsl">0</Option>
-      <Option Name="8plus3">0</Option>
-      <IpFilter>
-        <Disallowed />
-        <Allowed />
-      </IpFilter>
-      <Permissions>
-        <Permission Dir="c:\projetsweb\gr1013UKMi">
-          <Option Name="FileRead">1</Option>
-          <Option Name="FileWrite">1</Option>
-          <Option Name="FileDelete">1</Option>
-          <Option Name="FileAppend">1</Option>
-          <Option Name="DirCreate">1</Option>
-          <Option Name="DirDelete">1</Option>
-          <Option Name="DirList">1</Option>
-          <Option Name="DirSubdirs">1</Option>
-          <Option Name="IsHome">1</Option>
-          <Option Name="AutoCreate">0</Option>
-        </Permission>
-      </Permissions>
-      <SpeedLimits DlType="0" DlLimit="10" ServerDlLimitBypass="0" UlType="0" UlLimit="10" ServerUlLimitBypass="0">
-        <Download />
-        <Upload />
-      </SpeedLimits>
-    </User>
-    <User Name="gr101422Cm">
-      <Option Name="Pass">7f1ddae05bcb146bab5ab371f03285be</Option>
-      <Option Name="Group"></Option>
-      <Option Name="Bypass server userlimit">0</Option>
-      <Option Name="User Limit">0</Option>
-      <Option Name="IP Limit">0</Option>
-      <Option Name="Enabled">1</Option>
-      <Option Name="Comments"></Option>
-      <Option Name="ForceSsl">0</Option>
-      <Option Name="8plus3">0</Option>
-      <IpFilter>
-        <Disallowed />
-        <Allowed />
-      </IpFilter>
-      <Permissions>
-        <Permission Dir="c:\projetsweb\gr101422Cm">
-          <Option Name="FileRead">1</Option>
-          <Option Name="FileWrite">1</Option>
-          <Option Name="FileDelete">1</Option>
-          <Option Name="FileAppend">1</Option>
-          <Option Name="DirCreate">1</Option>
-          <Option Name="DirDelete">1</Option>
-          <Option Name="DirList">1</Option>
-          <Option Name="DirSubdirs">1</Option>
-          <Option Name="IsHome">1</Option>
-          <Option Name="AutoCreate">0</Option>
-        </Permission>
-      </Permissions>
-      <SpeedLimits DlType="0" DlLimit="10" ServerDlLimitBypass="0" UlType="0" UlLimit="10" ServerUlLimitBypass="0">
-        <Download />
-        <Upload />
-      </SpeedLimits>
-    </User>
-    <User Name="gr1015SxUn">
-      <Option Name="Pass">53465662b5cf0cdd3a51af96d13fe8f4</Option>
-      <Option Name="Group"></Option>
-      <Option Name="Bypass server userlimit">0</Option>
-      <Option Name="User Limit">0</Option>
-      <Option Name="IP Limit">0</Option>
-      <Option Name="Enabled">1</Option>
-      <Option Name="Comments"></Option>
-      <Option Name="ForceSsl">0</Option>
-      <Option Name="8plus3">0</Option>
-      <IpFilter>
-        <Disallowed />
-        <Allowed />
-      </IpFilter>
-      <Permissions>
-        <Permission Dir="c:\projetsweb\gr1015SxUn">
-          <Option Name="FileRead">1</Option>
-          <Option Name="FileWrite">1</Option>
-          <Option Name="FileDelete">1</Option>
-          <Option Name="FileAppend">1</Option>
-          <Option Name="DirCreate">1</Option>
-          <Option Name="DirDelete">1</Option>
-          <Option Name="DirList">1</Option>
-          <Option Name="DirSubdirs">1</Option>
-          <Option Name="IsHome">1</Option>
-          <Option Name="AutoCreate">0</Option>
-        </Permission>
-      </Permissions>
-      <SpeedLimits DlType="0" DlLimit="10" ServerDlLimitBypass="0" UlType="0" UlLimit="10" ServerUlLimitBypass="0">
-        <Download />
-        <Upload />
-      </SpeedLimits>
-    </User>
-    <User Name="gr10_adminuCvs">
-      <Option Name="Pass">616e3c78f055ac2f04536a02b90db8a7</Option>
+    <User Name="gr10_adming6eT">
+      <Option Name="Pass">5473b6ce3c7473e3a8d5ad927f469e5b</Option>
       <Option Name="Group"></Option>
       <Option Name="Bypass server userlimit">0</Option>
       <Option Name="User Limit">0</Option>
@@ -528,7 +297,7 @@
           <Option Name="IsHome">1</Option>
           <Option Name="AutoCreate">0</Option>
         </Permission>
-        <Permission Dir="c:\projetsweb\gr101EtyR">
+        <Permission Dir="c:\projetsweb\gr1001wpqQ">
           <Option Name="FileRead">1</Option>
           <Option Name="FileWrite">1</Option>
           <Option Name="FileDelete">1</Option>
@@ -540,7 +309,7 @@
           <Option Name="IsHome">0</Option>
           <Option Name="AutoCreate">0</Option>
         </Permission>
-        <Permission Dir="c:\projetsweb\gr102Esmm">
+        <Permission Dir="c:\projetsweb\gr1002Rfjs">
           <Option Name="FileRead">1</Option>
           <Option Name="FileWrite">1</Option>
           <Option Name="FileDelete">1</Option>
@@ -552,7 +321,7 @@
           <Option Name="IsHome">0</Option>
           <Option Name="AutoCreate">0</Option>
         </Permission>
-        <Permission Dir="c:\projetsweb\gr1038g6b">
+        <Permission Dir="c:\projetsweb\gr1003PhEa">
           <Option Name="FileRead">1</Option>
           <Option Name="FileWrite">1</Option>
           <Option Name="FileDelete">1</Option>
@@ -564,7 +333,7 @@
           <Option Name="IsHome">0</Option>
           <Option Name="AutoCreate">0</Option>
         </Permission>
-        <Permission Dir="c:\projetsweb\gr104RGii">
+        <Permission Dir="c:\projetsweb\gr1004EszV">
           <Option Name="FileRead">1</Option>
           <Option Name="FileWrite">1</Option>
           <Option Name="FileDelete">1</Option>
@@ -576,7 +345,7 @@
           <Option Name="IsHome">0</Option>
           <Option Name="AutoCreate">0</Option>
         </Permission>
-        <Permission Dir="c:\projetsweb\gr105kRbt">
+        <Permission Dir="c:\projetsweb\gr1005m3bs">
           <Option Name="FileRead">1</Option>
           <Option Name="FileWrite">1</Option>
           <Option Name="FileDelete">1</Option>
@@ -588,7 +357,7 @@
           <Option Name="IsHome">0</Option>
           <Option Name="AutoCreate">0</Option>
         </Permission>
-        <Permission Dir="c:\projetsweb\gr106QvZd">
+        <Permission Dir="c:\projetsweb\gr1006Fm9N">
           <Option Name="FileRead">1</Option>
           <Option Name="FileWrite">1</Option>
           <Option Name="FileDelete">1</Option>
@@ -600,7 +369,7 @@
           <Option Name="IsHome">0</Option>
           <Option Name="AutoCreate">0</Option>
         </Permission>
-        <Permission Dir="c:\projetsweb\gr107WrNQ">
+        <Permission Dir="c:\projetsweb\gr1007AjWR">
           <Option Name="FileRead">1</Option>
           <Option Name="FileWrite">1</Option>
           <Option Name="FileDelete">1</Option>
@@ -612,91 +381,7 @@
           <Option Name="IsHome">0</Option>
           <Option Name="AutoCreate">0</Option>
         </Permission>
-        <Permission Dir="c:\projetsweb\gr108jkrH">
-          <Option Name="FileRead">1</Option>
-          <Option Name="FileWrite">1</Option>
-          <Option Name="FileDelete">1</Option>
-          <Option Name="FileAppend">1</Option>
-          <Option Name="DirCreate">1</Option>
-          <Option Name="DirDelete">1</Option>
-          <Option Name="DirList">1</Option>
-          <Option Name="DirSubdirs">1</Option>
-          <Option Name="IsHome">0</Option>
-          <Option Name="AutoCreate">0</Option>
-        </Permission>
-        <Permission Dir="c:\projetsweb\gr109kniy">
-          <Option Name="FileRead">1</Option>
-          <Option Name="FileWrite">1</Option>
-          <Option Name="FileDelete">1</Option>
-          <Option Name="FileAppend">1</Option>
-          <Option Name="DirCreate">1</Option>
-          <Option Name="DirDelete">1</Option>
-          <Option Name="DirList">1</Option>
-          <Option Name="DirSubdirs">1</Option>
-          <Option Name="IsHome">0</Option>
-          <Option Name="AutoCreate">0</Option>
-        </Permission>
-        <Permission Dir="c:\projetsweb\gr1010CCoM">
-          <Option Name="FileRead">1</Option>
-          <Option Name="FileWrite">1</Option>
-          <Option Name="FileDelete">1</Option>
-          <Option Name="FileAppend">1</Option>
-          <Option Name="DirCreate">1</Option>
-          <Option Name="DirDelete">1</Option>
-          <Option Name="DirList">1</Option>
-          <Option Name="DirSubdirs">1</Option>
-          <Option Name="IsHome">0</Option>
-          <Option Name="AutoCreate">0</Option>
-        </Permission>
-        <Permission Dir="c:\projetsweb\gr1011eeKf">
-          <Option Name="FileRead">1</Option>
-          <Option Name="FileWrite">1</Option>
-          <Option Name="FileDelete">1</Option>
-          <Option Name="FileAppend">1</Option>
-          <Option Name="DirCreate">1</Option>
-          <Option Name="DirDelete">1</Option>
-          <Option Name="DirList">1</Option>
-          <Option Name="DirSubdirs">1</Option>
-          <Option Name="IsHome">0</Option>
-          <Option Name="AutoCreate">0</Option>
-        </Permission>
-        <Permission Dir="c:\projetsweb\gr1012bij6">
-          <Option Name="FileRead">1</Option>
-          <Option Name="FileWrite">1</Option>
-          <Option Name="FileDelete">1</Option>
-          <Option Name="FileAppend">1</Option>
-          <Option Name="DirCreate">1</Option>
-          <Option Name="DirDelete">1</Option>
-          <Option Name="DirList">1</Option>
-          <Option Name="DirSubdirs">1</Option>
-          <Option Name="IsHome">0</Option>
-          <Option Name="AutoCreate">0</Option>
-        </Permission>
-        <Permission Dir="c:\projetsweb\gr1013UKMi">
-          <Option Name="FileRead">1</Option>
-          <Option Name="FileWrite">1</Option>
-          <Option Name="FileDelete">1</Option>
-          <Option Name="FileAppend">1</Option>
-          <Option Name="DirCreate">1</Option>
-          <Option Name="DirDelete">1</Option>
-          <Option Name="DirList">1</Option>
-          <Option Name="DirSubdirs">1</Option>
-          <Option Name="IsHome">0</Option>
-          <Option Name="AutoCreate">0</Option>
-        </Permission>
-        <Permission Dir="c:\projetsweb\gr101422Cm">
-          <Option Name="FileRead">1</Option>
-          <Option Name="FileWrite">1</Option>
-          <Option Name="FileDelete">1</Option>
-          <Option Name="FileAppend">1</Option>
-          <Option Name="DirCreate">1</Option>
-          <Option Name="DirDelete">1</Option>
-          <Option Name="DirList">1</Option>
-          <Option Name="DirSubdirs">1</Option>
-          <Option Name="IsHome">0</Option>
-          <Option Name="AutoCreate">0</Option>
-        </Permission>
-        <Permission Dir="c:\projetsweb\gr1015SxUn">
+        <Permission Dir="c:\projetsweb\gr1008TTkt">
           <Option Name="FileRead">1</Option>
           <Option Name="FileWrite">1</Option>
           <Option Name="FileDelete">1</Option>
@@ -714,8 +399,8 @@
         <Upload />
       </SpeedLimits>
     </User>
-    <User Name="gr121KpGs">
-      <Option Name="Pass">79833fe10d6f067f2b35e386eaa8ef80</Option>
+    <User Name="gr1201xybj">
+      <Option Name="Pass">0dd695bf735b3c92f31c5ff208c20dc9</Option>
       <Option Name="Group"></Option>
       <Option Name="Bypass server userlimit">0</Option>
       <Option Name="User Limit">0</Option>
@@ -729,7 +414,7 @@
         <Allowed />
       </IpFilter>
       <Permissions>
-        <Permission Dir="c:\projetsweb\gr121KpGs">
+        <Permission Dir="c:\projetsweb\gr1201xybj">
           <Option Name="FileRead">1</Option>
           <Option Name="FileWrite">1</Option>
           <Option Name="FileDelete">1</Option>
@@ -747,8 +432,8 @@
         <Upload />
       </SpeedLimits>
     </User>
-    <User Name="gr122gjLq">
-      <Option Name="Pass">fdb3173f7a4ba736d493c5e20465ae4a</Option>
+    <User Name="gr1202D8qa">
+      <Option Name="Pass">d2ab82c6053d97ac734f9a59baafc6fb</Option>
       <Option Name="Group"></Option>
       <Option Name="Bypass server userlimit">0</Option>
       <Option Name="User Limit">0</Option>
@@ -762,7 +447,7 @@
         <Allowed />
       </IpFilter>
       <Permissions>
-        <Permission Dir="c:\projetsweb\gr122gjLq">
+        <Permission Dir="c:\projetsweb\gr1202D8qa">
           <Option Name="FileRead">1</Option>
           <Option Name="FileWrite">1</Option>
           <Option Name="FileDelete">1</Option>
@@ -780,8 +465,8 @@
         <Upload />
       </SpeedLimits>
     </User>
-    <User Name="gr123PjUr">
-      <Option Name="Pass">29b5d069d738371d85e248f5c1b90ff4</Option>
+    <User Name="gr1203aMiW">
+      <Option Name="Pass">0e33e308dd9765aceba245a481724c01</Option>
       <Option Name="Group"></Option>
       <Option Name="Bypass server userlimit">0</Option>
       <Option Name="User Limit">0</Option>
@@ -795,7 +480,7 @@
         <Allowed />
       </IpFilter>
       <Permissions>
-        <Permission Dir="c:\projetsweb\gr123PjUr">
+        <Permission Dir="c:\projetsweb\gr1203aMiW">
           <Option Name="FileRead">1</Option>
           <Option Name="FileWrite">1</Option>
           <Option Name="FileDelete">1</Option>
@@ -813,8 +498,8 @@
         <Upload />
       </SpeedLimits>
     </User>
-    <User Name="gr1249DVR">
-      <Option Name="Pass">5adecd999e0943cc9c31be119f383795</Option>
+    <User Name="gr1204PH9y">
+      <Option Name="Pass">095c0fa5b3ac1572f0b69313fc63730f</Option>
       <Option Name="Group"></Option>
       <Option Name="Bypass server userlimit">0</Option>
       <Option Name="User Limit">0</Option>
@@ -828,7 +513,7 @@
         <Allowed />
       </IpFilter>
       <Permissions>
-        <Permission Dir="c:\projetsweb\gr1249DVR">
+        <Permission Dir="c:\projetsweb\gr1204PH9y">
           <Option Name="FileRead">1</Option>
           <Option Name="FileWrite">1</Option>
           <Option Name="FileDelete">1</Option>
@@ -846,8 +531,8 @@
         <Upload />
       </SpeedLimits>
     </User>
-    <User Name="gr125gCcG">
-      <Option Name="Pass">d9eb4ef47144093a63238022c4d3a793</Option>
+    <User Name="gr1205iJrW">
+      <Option Name="Pass">3fd4f64585739b1203a8d56970381c86</Option>
       <Option Name="Group"></Option>
       <Option Name="Bypass server userlimit">0</Option>
       <Option Name="User Limit">0</Option>
@@ -861,7 +546,7 @@
         <Allowed />
       </IpFilter>
       <Permissions>
-        <Permission Dir="c:\projetsweb\gr125gCcG">
+        <Permission Dir="c:\projetsweb\gr1205iJrW">
           <Option Name="FileRead">1</Option>
           <Option Name="FileWrite">1</Option>
           <Option Name="FileDelete">1</Option>
@@ -879,8 +564,8 @@
         <Upload />
       </SpeedLimits>
     </User>
-    <User Name="gr1264mRv">
-      <Option Name="Pass">a63a9fe38c3e179e2106939c0a0e56aa</Option>
+    <User Name="gr1206o5nx">
+      <Option Name="Pass">ef034b8407a88d4c9e46a6c0988f7330</Option>
       <Option Name="Group"></Option>
       <Option Name="Bypass server userlimit">0</Option>
       <Option Name="User Limit">0</Option>
@@ -894,7 +579,7 @@
         <Allowed />
       </IpFilter>
       <Permissions>
-        <Permission Dir="c:\projetsweb\gr1264mRv">
+        <Permission Dir="c:\projetsweb\gr1206o5nx">
           <Option Name="FileRead">1</Option>
           <Option Name="FileWrite">1</Option>
           <Option Name="FileDelete">1</Option>
@@ -912,8 +597,8 @@
         <Upload />
       </SpeedLimits>
     </User>
-    <User Name="gr127i7ju">
-      <Option Name="Pass">c88590dcac089886f0b75fc007a7fb4f</Option>
+    <User Name="gr1207SyJb">
+      <Option Name="Pass">8c274492783542f2754005877d3531ff</Option>
       <Option Name="Group"></Option>
       <Option Name="Bypass server userlimit">0</Option>
       <Option Name="User Limit">0</Option>
@@ -927,7 +612,7 @@
         <Allowed />
       </IpFilter>
       <Permissions>
-        <Permission Dir="c:\projetsweb\gr127i7ju">
+        <Permission Dir="c:\projetsweb\gr1207SyJb">
           <Option Name="FileRead">1</Option>
           <Option Name="FileWrite">1</Option>
           <Option Name="FileDelete">1</Option>
@@ -945,8 +630,8 @@
         <Upload />
       </SpeedLimits>
     </User>
-    <User Name="gr128h2RV">
-      <Option Name="Pass">d976e39fccb290fa8c1586a2d3d68b8b</Option>
+    <User Name="gr12083o3B">
+      <Option Name="Pass">b1ca9100978c7d2c6cc59c1a18c4cbe9</Option>
       <Option Name="Group"></Option>
       <Option Name="Bypass server userlimit">0</Option>
       <Option Name="User Limit">0</Option>
@@ -960,7 +645,7 @@
         <Allowed />
       </IpFilter>
       <Permissions>
-        <Permission Dir="c:\projetsweb\gr128h2RV">
+        <Permission Dir="c:\projetsweb\gr12083o3B">
           <Option Name="FileRead">1</Option>
           <Option Name="FileWrite">1</Option>
           <Option Name="FileDelete">1</Option>
@@ -978,8 +663,8 @@
         <Upload />
       </SpeedLimits>
     </User>
-    <User Name="gr129osCm">
-      <Option Name="Pass">c08b6504430466c876328bbb34e302c9</Option>
+    <User Name="gr1209nPkN">
+      <Option Name="Pass">b109a420c1daf94b2893ca0ee0ce27af</Option>
       <Option Name="Group"></Option>
       <Option Name="Bypass server userlimit">0</Option>
       <Option Name="User Limit">0</Option>
@@ -993,7 +678,7 @@
         <Allowed />
       </IpFilter>
       <Permissions>
-        <Permission Dir="c:\projetsweb\gr129osCm">
+        <Permission Dir="c:\projetsweb\gr1209nPkN">
           <Option Name="FileRead">1</Option>
           <Option Name="FileWrite">1</Option>
           <Option Name="FileDelete">1</Option>
@@ -1011,8 +696,8 @@
         <Upload />
       </SpeedLimits>
     </User>
-    <User Name="gr12103vAG">
-      <Option Name="Pass">e9df6e1593b6bb041aa289b5a387b4b8</Option>
+    <User Name="gr1210c8hz">
+      <Option Name="Pass">4c1c365245a132efef5fa9453ce3448c</Option>
       <Option Name="Group"></Option>
       <Option Name="Bypass server userlimit">0</Option>
       <Option Name="User Limit">0</Option>
@@ -1026,7 +711,7 @@
         <Allowed />
       </IpFilter>
       <Permissions>
-        <Permission Dir="c:\projetsweb\gr12103vAG">
+        <Permission Dir="c:\projetsweb\gr1210c8hz">
           <Option Name="FileRead">1</Option>
           <Option Name="FileWrite">1</Option>
           <Option Name="FileDelete">1</Option>
@@ -1044,8 +729,8 @@
         <Upload />
       </SpeedLimits>
     </User>
-    <User Name="gr1211JN9P">
-      <Option Name="Pass">5c7f8930efc28e89caf9336be74d297b</Option>
+    <User Name="gr1211mFzv">
+      <Option Name="Pass">80efc9bd7238022f9fe59fa5337cbc1a</Option>
       <Option Name="Group"></Option>
       <Option Name="Bypass server userlimit">0</Option>
       <Option Name="User Limit">0</Option>
@@ -1059,7 +744,7 @@
         <Allowed />
       </IpFilter>
       <Permissions>
-        <Permission Dir="c:\projetsweb\gr1211JN9P">
+        <Permission Dir="c:\projetsweb\gr1211mFzv">
           <Option Name="FileRead">1</Option>
           <Option Name="FileWrite">1</Option>
           <Option Name="FileDelete">1</Option>
@@ -1077,8 +762,8 @@
         <Upload />
       </SpeedLimits>
     </User>
-    <User Name="gr12125yss">
-      <Option Name="Pass">600efd9907da040176b7850c4e7e2061</Option>
+    <User Name="gr1212CqPb">
+      <Option Name="Pass">43525d76d17a09e02f7b4edb5c38c0ed</Option>
       <Option Name="Group"></Option>
       <Option Name="Bypass server userlimit">0</Option>
       <Option Name="User Limit">0</Option>
@@ -1092,7 +777,7 @@
         <Allowed />
       </IpFilter>
       <Permissions>
-        <Permission Dir="c:\projetsweb\gr12125yss">
+        <Permission Dir="c:\projetsweb\gr1212CqPb">
           <Option Name="FileRead">1</Option>
           <Option Name="FileWrite">1</Option>
           <Option Name="FileDelete">1</Option>
@@ -1110,8 +795,8 @@
         <Upload />
       </SpeedLimits>
     </User>
-    <User Name="gr12133evC">
-      <Option Name="Pass">90661cfe206b788e2b6b367f1071c63f</Option>
+    <User Name="gr1213kCzr">
+      <Option Name="Pass">1188b54156f0da4fcbb3cb21fd9d3206</Option>
       <Option Name="Group"></Option>
       <Option Name="Bypass server userlimit">0</Option>
       <Option Name="User Limit">0</Option>
@@ -1125,7 +810,7 @@
         <Allowed />
       </IpFilter>
       <Permissions>
-        <Permission Dir="c:\projetsweb\gr12133evC">
+        <Permission Dir="c:\projetsweb\gr1213kCzr">
           <Option Name="FileRead">1</Option>
           <Option Name="FileWrite">1</Option>
           <Option Name="FileDelete">1</Option>
@@ -1143,8 +828,8 @@
         <Upload />
       </SpeedLimits>
     </User>
-    <User Name="gr1214Yg9Z">
-      <Option Name="Pass">a4de7bad0b4606b8f2e673fc04223ae5</Option>
+    <User Name="gr12145Jpc">
+      <Option Name="Pass">86677018e4914661f64bd0c789833a61</Option>
       <Option Name="Group"></Option>
       <Option Name="Bypass server userlimit">0</Option>
       <Option Name="User Limit">0</Option>
@@ -1158,7 +843,7 @@
         <Allowed />
       </IpFilter>
       <Permissions>
-        <Permission Dir="c:\projetsweb\gr1214Yg9Z">
+        <Permission Dir="c:\projetsweb\gr12145Jpc">
           <Option Name="FileRead">1</Option>
           <Option Name="FileWrite">1</Option>
           <Option Name="FileDelete">1</Option>
@@ -1176,41 +861,8 @@
         <Upload />
       </SpeedLimits>
     </User>
-    <User Name="gr1215HbQz">
-      <Option Name="Pass">00bf26aba3a69194cb67bc82181ca6ca</Option>
-      <Option Name="Group"></Option>
-      <Option Name="Bypass server userlimit">0</Option>
-      <Option Name="User Limit">0</Option>
-      <Option Name="IP Limit">0</Option>
-      <Option Name="Enabled">1</Option>
-      <Option Name="Comments"></Option>
-      <Option Name="ForceSsl">0</Option>
-      <Option Name="8plus3">0</Option>
-      <IpFilter>
-        <Disallowed />
-        <Allowed />
-      </IpFilter>
-      <Permissions>
-        <Permission Dir="c:\projetsweb\gr1215HbQz">
-          <Option Name="FileRead">1</Option>
-          <Option Name="FileWrite">1</Option>
-          <Option Name="FileDelete">1</Option>
-          <Option Name="FileAppend">1</Option>
-          <Option Name="DirCreate">1</Option>
-          <Option Name="DirDelete">1</Option>
-          <Option Name="DirList">1</Option>
-          <Option Name="DirSubdirs">1</Option>
-          <Option Name="IsHome">1</Option>
-          <Option Name="AutoCreate">0</Option>
-        </Permission>
-      </Permissions>
-      <SpeedLimits DlType="0" DlLimit="10" ServerDlLimitBypass="0" UlType="0" UlLimit="10" ServerUlLimitBypass="0">
-        <Download />
-        <Upload />
-      </SpeedLimits>
-    </User>
-    <User Name="gr12_adminB89y">
-      <Option Name="Pass">47f501d43f3ae8e7f20f4ad1ad2d5e82</Option>
+    <User Name="gr12_admin9xXd">
+      <Option Name="Pass">58a15f7ed07a87f9ddf9ddc604bbf3b8</Option>
       <Option Name="Group"></Option>
       <Option Name="Bypass server userlimit">0</Option>
       <Option Name="User Limit">0</Option>
@@ -1236,7 +888,7 @@
           <Option Name="IsHome">1</Option>
           <Option Name="AutoCreate">0</Option>
         </Permission>
-        <Permission Dir="c:\projetsweb\gr121KpGs">
+        <Permission Dir="c:\projetsweb\gr1201xybj">
           <Option Name="FileRead">1</Option>
           <Option Name="FileWrite">1</Option>
           <Option Name="FileDelete">1</Option>
@@ -1248,7 +900,7 @@
           <Option Name="IsHome">0</Option>
           <Option Name="AutoCreate">0</Option>
         </Permission>
-        <Permission Dir="c:\projetsweb\gr122gjLq">
+        <Permission Dir="c:\projetsweb\gr1202D8qa">
           <Option Name="FileRead">1</Option>
           <Option Name="FileWrite">1</Option>
           <Option Name="FileDelete">1</Option>
@@ -1260,7 +912,7 @@
           <Option Name="IsHome">0</Option>
           <Option Name="AutoCreate">0</Option>
         </Permission>
-        <Permission Dir="c:\projetsweb\gr123PjUr">
+        <Permission Dir="c:\projetsweb\gr1203aMiW">
           <Option Name="FileRead">1</Option>
           <Option Name="FileWrite">1</Option>
           <Option Name="FileDelete">1</Option>
@@ -1272,7 +924,7 @@
           <Option Name="IsHome">0</Option>
           <Option Name="AutoCreate">0</Option>
         </Permission>
-        <Permission Dir="c:\projetsweb\gr1249DVR">
+        <Permission Dir="c:\projetsweb\gr1204PH9y">
           <Option Name="FileRead">1</Option>
           <Option Name="FileWrite">1</Option>
           <Option Name="FileDelete">1</Option>
@@ -1284,7 +936,7 @@
           <Option Name="IsHome">0</Option>
           <Option Name="AutoCreate">0</Option>
         </Permission>
-        <Permission Dir="c:\projetsweb\gr125gCcG">
+        <Permission Dir="c:\projetsweb\gr1205iJrW">
           <Option Name="FileRead">1</Option>
           <Option Name="FileWrite">1</Option>
           <Option Name="FileDelete">1</Option>
@@ -1296,7 +948,7 @@
           <Option Name="IsHome">0</Option>
           <Option Name="AutoCreate">0</Option>
         </Permission>
-        <Permission Dir="c:\projetsweb\gr1264mRv">
+        <Permission Dir="c:\projetsweb\gr1206o5nx">
           <Option Name="FileRead">1</Option>
           <Option Name="FileWrite">1</Option>
           <Option Name="FileDelete">1</Option>
@@ -1308,7 +960,7 @@
           <Option Name="IsHome">0</Option>
           <Option Name="AutoCreate">0</Option>
         </Permission>
-        <Permission Dir="c:\projetsweb\gr127i7ju">
+        <Permission Dir="c:\projetsweb\gr1207SyJb">
           <Option Name="FileRead">1</Option>
           <Option Name="FileWrite">1</Option>
           <Option Name="FileDelete">1</Option>
@@ -1320,7 +972,7 @@
           <Option Name="IsHome">0</Option>
           <Option Name="AutoCreate">0</Option>
         </Permission>
-        <Permission Dir="c:\projetsweb\gr128h2RV">
+        <Permission Dir="c:\projetsweb\gr12083o3B">
           <Option Name="FileRead">1</Option>
           <Option Name="FileWrite">1</Option>
           <Option Name="FileDelete">1</Option>
@@ -1332,7 +984,7 @@
           <Option Name="IsHome">0</Option>
           <Option Name="AutoCreate">0</Option>
         </Permission>
-        <Permission Dir="c:\projetsweb\gr129osCm">
+        <Permission Dir="c:\projetsweb\gr1209nPkN">
           <Option Name="FileRead">1</Option>
           <Option Name="FileWrite">1</Option>
           <Option Name="FileDelete">1</Option>
@@ -1344,7 +996,7 @@
           <Option Name="IsHome">0</Option>
           <Option Name="AutoCreate">0</Option>
         </Permission>
-        <Permission Dir="c:\projetsweb\gr12103vAG">
+        <Permission Dir="c:\projetsweb\gr1210c8hz">
           <Option Name="FileRead">1</Option>
           <Option Name="FileWrite">1</Option>
           <Option Name="FileDelete">1</Option>
@@ -1356,7 +1008,7 @@
           <Option Name="IsHome">0</Option>
           <Option Name="AutoCreate">0</Option>
         </Permission>
-        <Permission Dir="c:\projetsweb\gr1211JN9P">
+        <Permission Dir="c:\projetsweb\gr1211mFzv">
           <Option Name="FileRead">1</Option>
           <Option Name="FileWrite">1</Option>
           <Option Name="FileDelete">1</Option>
@@ -1368,7 +1020,7 @@
           <Option Name="IsHome">0</Option>
           <Option Name="AutoCreate">0</Option>
         </Permission>
-        <Permission Dir="c:\projetsweb\gr12125yss">
+        <Permission Dir="c:\projetsweb\gr1212CqPb">
           <Option Name="FileRead">1</Option>
           <Option Name="FileWrite">1</Option>
           <Option Name="FileDelete">1</Option>
@@ -1380,7 +1032,7 @@
           <Option Name="IsHome">0</Option>
           <Option Name="AutoCreate">0</Option>
         </Permission>
-        <Permission Dir="c:\projetsweb\gr12133evC">
+        <Permission Dir="c:\projetsweb\gr1213kCzr">
           <Option Name="FileRead">1</Option>
           <Option Name="FileWrite">1</Option>
           <Option Name="FileDelete">1</Option>
@@ -1392,19 +1044,7 @@
           <Option Name="IsHome">0</Option>
           <Option Name="AutoCreate">0</Option>
         </Permission>
-        <Permission Dir="c:\projetsweb\gr1214Yg9Z">
-          <Option Name="FileRead">1</Option>
-          <Option Name="FileWrite">1</Option>
-          <Option Name="FileDelete">1</Option>
-          <Option Name="FileAppend">1</Option>
-          <Option Name="DirCreate">1</Option>
-          <Option Name="DirDelete">1</Option>
-          <Option Name="DirList">1</Option>
-          <Option Name="DirSubdirs">1</Option>
-          <Option Name="IsHome">0</Option>
-          <Option Name="AutoCreate">0</Option>
-        </Permission>
-        <Permission Dir="c:\projetsweb\gr1215HbQz">
+        <Permission Dir="c:\projetsweb\gr12145Jpc">
           <Option Name="FileRead">1</Option>
           <Option Name="FileWrite">1</Option>
           <Option Name="FileDelete">1</Option>

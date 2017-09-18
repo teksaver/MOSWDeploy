@@ -46,7 +46,7 @@ namespace MOSWdeploy
             Students = new List<Credentials>();
             for (int i = 0; i < howManyToCreate; i++)
             {
-                Students.Add(new Credentials(groupName + (i + 1)));
+                Students.Add(new Credentials(String.Format("{0}{1:D2}",groupName,i + 1)));
             }
             admin = new Credentials(groupName + "_admin");
         }
