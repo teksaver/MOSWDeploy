@@ -81,23 +81,24 @@ namespace MOSWdeploy
                             .Single()
                             .Value = "0";
             // Buffer for each Student
-             XElement userNode;
+            XElement userNode;
             // Student loop
-            foreach(var student in group.Students){
+            foreach (var student in group.Students)
+            {
                 // Add User XML Element
-                userNode=createXMLUser(student);
+                userNode = createXMLUser(student);
                 xmlOut.Root.Element("Users").Add(userNode);
                 // Set permissions to user and admin
-                XElement permUser = new XElement(userNode.Elements("Permissions").Single().Element("Permission")); 
+                XElement permUser = new XElement(userNode.Elements("Permissions").Single().Element("Permission"));
                 permUser.Elements("Option").Where(
                     x => x.Attribute("Name").Value == "IsHome")
                             .Single()
-                            .Value = "0";          
+                            .Value = "0";
                 permadmin.Parent.Add(permUser);
             }
             // Add admin to XML
             xmlOut.Root.Element("Users").Add(admin);
-                        
+
         }
 
         public void WriteXML()
@@ -127,8 +128,7 @@ namespace MOSWdeploy
             // update path
             u.Elements("Permissions").Single()
                 .Element("Permission")
-                .SetAttributeValue("Dir", baseDirFTP+c.Login);
-            Console.WriteLine("DEBUG : XML créé : {0}", u);
+                .SetAttributeValue("Dir", baseDirFTP + c.Login);
             return u;
         }
 

@@ -54,7 +54,14 @@ namespace MOSWdeploy
             fzConf.WriteXML();
 
             // MySQL generation
+            Console.WriteLine("Saving DB config file");
             MySQLConf.GenerateDBFile(gr10, mySQLOutDir);
+            MySQLConf.GenerateDBFile(gr12, mySQLOutDir);
+
+            // CSV generation
+            Console.WriteLine("Exporting to CSV");
+            ExportGroup.ToCSV(gr10);
+            ExportGroup.ToCSV(gr12);
         }
     }
 }
