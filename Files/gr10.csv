@@ -1,10 +1,17 @@
 group name,login,password, dbname
-Grp. 1,gr1001wpqQ,5vnoz9Zk,bddgr1001
-Grp. 1,gr1002Rfjs,up3MXSSP,bddgr1002
-Grp. 1,gr1003PhEa,q4CDMcj2,bddgr1003
-Grp. 1,gr1004EszV,kfD48jdo,bddgr1004
-Grp. 1,gr1005m3bs,ykfxtKks,bddgr1005
-Grp. 1,gr1006Fm9N,idKn2Fik,bddgr1006
-Grp. 1,gr1007AjWR,vHJsKn9j,bddgr1007
-Grp. 1,gr1008TTkt,tv76XoHc,bddgr1008
-Admin grpgr10,gr10_adming6eT,8REmujaN,
+Grp. 1,gr1001jagn,9DiwcJjX,bddgr1001
+group name,login,password, dbname
+Grp. 2,gr1002YkRn,V7wx3t8L,bddgr1002
+group name,login,password, dbname
+Grp. 3,gr1003oLBE,axUebfjf,bddgr1003
+group name,login,password, dbname
+Grp. 4,gr1004yLkG,NNfkjQFC,bddgr1004
+group name,login,password, dbname
+Grp. 5,gr1005czTu,3ii2oLA6,bddgr1005
+group name,login,password, dbname
+Grp. 6,gr1006HczM,JptvawLi,bddgr1006
+group name,login,password, dbname
+Grp. 7,gr1007yfCe,YfCFJdto,bddgr1007
+group name,login,password, dbname
+Grp. 8,gr1008EtKi,A6uNdBko,bddgr1008
+Admin grpgr10,gr10_adminmCwH,iyw3kwmv,

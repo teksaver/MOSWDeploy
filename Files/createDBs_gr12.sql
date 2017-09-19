@@ -1,99 +1,99 @@
-CREATE USER 'gr12_admin9xXd'@'%' IDENTIFIED BY 'HVmMouGF';
-CREATE USER 'gr1201xybj'@'%' IDENTIFIED BY 'w5YxYKGZ';
+CREATE USER 'gr12_admingPxd'@'%' IDENTIFIED BY 'r9m69j6K';
+CREATE USER 'gr1201VnNf'@'%' IDENTIFIED BY 'iw9eUjvH';
 CREATE DATABASE `bddgr1201`;
 GRANT SELECT, UPDATE, TRIGGER, REFERENCES, INSERT
                                         , EVENT, INDEX, DROP, DELETE, EXECUTE, SHOW VIEW
                                         , ALTER, CREATE, CREATE ROUTINE, CREATE TEMPORARY TABLES, CREATE VIEW, ALTER ROUTINE
-                                        ON `bddgr1201`.* TO 'gr1201xybj'@'%';
-GRANT SELECT ON `bddgr1201`.* TO 'gr12_admin9xXd'@'%';
-CREATE USER 'gr1202D8qa'@'%' IDENTIFIED BY 'nFHcMpyg';
+                                        ON `bddgr1201`.* TO 'gr1201VnNf'@'%';
+GRANT SELECT ON `bddgr1201`.* TO 'gr12_admingPxd'@'%';
+CREATE USER 'gr1202H2vW'@'%' IDENTIFIED BY 'bdPpz7nd';
 CREATE DATABASE `bddgr1202`;
 GRANT SELECT, UPDATE, TRIGGER, REFERENCES, INSERT
                                         , EVENT, INDEX, DROP, DELETE, EXECUTE, SHOW VIEW
                                         , ALTER, CREATE, CREATE ROUTINE, CREATE TEMPORARY TABLES, CREATE VIEW, ALTER ROUTINE
-                                        ON `bddgr1202`.* TO 'gr1202D8qa'@'%';
-GRANT SELECT ON `bddgr1202`.* TO 'gr12_admin9xXd'@'%';
-CREATE USER 'gr1203aMiW'@'%' IDENTIFIED BY 'yZHFt7YR';
+                                        ON `bddgr1202`.* TO 'gr1202H2vW'@'%';
+GRANT SELECT ON `bddgr1202`.* TO 'gr12_admingPxd'@'%';
+CREATE USER 'gr1203xq4D'@'%' IDENTIFIED BY 'RxCSuGW2';
 CREATE DATABASE `bddgr1203`;
 GRANT SELECT, UPDATE, TRIGGER, REFERENCES, INSERT
                                         , EVENT, INDEX, DROP, DELETE, EXECUTE, SHOW VIEW
                                         , ALTER, CREATE, CREATE ROUTINE, CREATE TEMPORARY TABLES, CREATE VIEW, ALTER ROUTINE
-                                        ON `bddgr1203`.* TO 'gr1203aMiW'@'%';
-GRANT SELECT ON `bddgr1203`.* TO 'gr12_admin9xXd'@'%';
-CREATE USER 'gr1204PH9y'@'%' IDENTIFIED BY 'RKCq99on';
+                                        ON `bddgr1203`.* TO 'gr1203xq4D'@'%';
+GRANT SELECT ON `bddgr1203`.* TO 'gr12_admingPxd'@'%';
+CREATE USER 'gr12044rGj'@'%' IDENTIFIED BY 'ct3zLDQ5';
 CREATE DATABASE `bddgr1204`;
 GRANT SELECT, UPDATE, TRIGGER, REFERENCES, INSERT
                                         , EVENT, INDEX, DROP, DELETE, EXECUTE, SHOW VIEW
                                         , ALTER, CREATE, CREATE ROUTINE, CREATE TEMPORARY TABLES, CREATE VIEW, ALTER ROUTINE
-                                        ON `bddgr1204`.* TO 'gr1204PH9y'@'%';
-GRANT SELECT ON `bddgr1204`.* TO 'gr12_admin9xXd'@'%';
-CREATE USER 'gr1205iJrW'@'%' IDENTIFIED BY 'x7244Eyy';
+                                        ON `bddgr1204`.* TO 'gr12044rGj'@'%';
+GRANT SELECT ON `bddgr1204`.* TO 'gr12_admingPxd'@'%';
+CREATE USER 'gr1205z2MQ'@'%' IDENTIFIED BY 'tF4QBSuW';
 CREATE DATABASE `bddgr1205`;
 GRANT SELECT, UPDATE, TRIGGER, REFERENCES, INSERT
                                         , EVENT, INDEX, DROP, DELETE, EXECUTE, SHOW VIEW
                                         , ALTER, CREATE, CREATE ROUTINE, CREATE TEMPORARY TABLES, CREATE VIEW, ALTER ROUTINE
-                                        ON `bddgr1205`.* TO 'gr1205iJrW'@'%';
-GRANT SELECT ON `bddgr1205`.* TO 'gr12_admin9xXd'@'%';
-CREATE USER 'gr1206o5nx'@'%' IDENTIFIED BY 'oiy2cQov';
+                                        ON `bddgr1205`.* TO 'gr1205z2MQ'@'%';
+GRANT SELECT ON `bddgr1205`.* TO 'gr12_admingPxd'@'%';
+CREATE USER 'gr1206VEzB'@'%' IDENTIFIED BY 'gttVgaXm';
 CREATE DATABASE `bddgr1206`;
 GRANT SELECT, UPDATE, TRIGGER, REFERENCES, INSERT
                                         , EVENT, INDEX, DROP, DELETE, EXECUTE, SHOW VIEW
                                         , ALTER, CREATE, CREATE ROUTINE, CREATE TEMPORARY TABLES, CREATE VIEW, ALTER ROUTINE
-                                        ON `bddgr1206`.* TO 'gr1206o5nx'@'%';
-GRANT SELECT ON `bddgr1206`.* TO 'gr12_admin9xXd'@'%';
-CREATE USER 'gr1207SyJb'@'%' IDENTIFIED BY 'YDiKHkEZ';
+                                        ON `bddgr1206`.* TO 'gr1206VEzB'@'%';
+GRANT SELECT ON `bddgr1206`.* TO 'gr12_admingPxd'@'%';
+CREATE USER 'gr1207bTmf'@'%' IDENTIFIED BY '4EXqdcwd';
 CREATE DATABASE `bddgr1207`;
 GRANT SELECT, UPDATE, TRIGGER, REFERENCES, INSERT
                                         , EVENT, INDEX, DROP, DELETE, EXECUTE, SHOW VIEW
                                         , ALTER, CREATE, CREATE ROUTINE, CREATE TEMPORARY TABLES, CREATE VIEW, ALTER ROUTINE
-                                        ON `bddgr1207`.* TO 'gr1207SyJb'@'%';
-GRANT SELECT ON `bddgr1207`.* TO 'gr12_admin9xXd'@'%';
-CREATE USER 'gr12083o3B'@'%' IDENTIFIED BY 'ooUNkCfh';
+                                        ON `bddgr1207`.* TO 'gr1207bTmf'@'%';
+GRANT SELECT ON `bddgr1207`.* TO 'gr12_admingPxd'@'%';
+CREATE USER 'gr1208maV9'@'%' IDENTIFIED BY 'xgstJKTY';
 CREATE DATABASE `bddgr1208`;
 GRANT SELECT, UPDATE, TRIGGER, REFERENCES, INSERT
                                         , EVENT, INDEX, DROP, DELETE, EXECUTE, SHOW VIEW
                                         , ALTER, CREATE, CREATE ROUTINE, CREATE TEMPORARY TABLES, CREATE VIEW, ALTER ROUTINE
-                                        ON `bddgr1208`.* TO 'gr12083o3B'@'%';
-GRANT SELECT ON `bddgr1208`.* TO 'gr12_admin9xXd'@'%';
-CREATE USER 'gr1209nPkN'@'%' IDENTIFIED BY 'nUSD62fu';
+                                        ON `bddgr1208`.* TO 'gr1208maV9'@'%';
+GRANT SELECT ON `bddgr1208`.* TO 'gr12_admingPxd'@'%';
+CREATE USER 'gr1209vS7B'@'%' IDENTIFIED BY 'ABCBj3jV';
 CREATE DATABASE `bddgr1209`;
 GRANT SELECT, UPDATE, TRIGGER, REFERENCES, INSERT
                                         , EVENT, INDEX, DROP, DELETE, EXECUTE, SHOW VIEW
                                         , ALTER, CREATE, CREATE ROUTINE, CREATE TEMPORARY TABLES, CREATE VIEW, ALTER ROUTINE
-                                        ON `bddgr1209`.* TO 'gr1209nPkN'@'%';
-GRANT SELECT ON `bddgr1209`.* TO 'gr12_admin9xXd'@'%';
-CREATE USER 'gr1210c8hz'@'%' IDENTIFIED BY 'CK9ZC2Ap';
+                                        ON `bddgr1209`.* TO 'gr1209vS7B'@'%';
+GRANT SELECT ON `bddgr1209`.* TO 'gr12_admingPxd'@'%';
+CREATE USER 'gr1210xRwB'@'%' IDENTIFIED BY 'ZZbz4fjB';
 CREATE DATABASE `bddgr1210`;
 GRANT SELECT, UPDATE, TRIGGER, REFERENCES, INSERT
                                         , EVENT, INDEX, DROP, DELETE, EXECUTE, SHOW VIEW
                                         , ALTER, CREATE, CREATE ROUTINE, CREATE TEMPORARY TABLES, CREATE VIEW, ALTER ROUTINE
-                                        ON `bddgr1210`.* TO 'gr1210c8hz'@'%';
-GRANT SELECT ON `bddgr1210`.* TO 'gr12_admin9xXd'@'%';
-CREATE USER 'gr1211mFzv'@'%' IDENTIFIED BY 'ScZp75Bk';
+                                        ON `bddgr1210`.* TO 'gr1210xRwB'@'%';
+GRANT SELECT ON `bddgr1210`.* TO 'gr12_admingPxd'@'%';
+CREATE USER 'gr1211kU96'@'%' IDENTIFIED BY 'dbaqSrqf';
 CREATE DATABASE `bddgr1211`;
 GRANT SELECT, UPDATE, TRIGGER, REFERENCES, INSERT
                                         , EVENT, INDEX, DROP, DELETE, EXECUTE, SHOW VIEW
                                         , ALTER, CREATE, CREATE ROUTINE, CREATE TEMPORARY TABLES, CREATE VIEW, ALTER ROUTINE
-                                        ON `bddgr1211`.* TO 'gr1211mFzv'@'%';
-GRANT SELECT ON `bddgr1211`.* TO 'gr12_admin9xXd'@'%';
-CREATE USER 'gr1212CqPb'@'%' IDENTIFIED BY 'w6yXHmg8';
+                                        ON `bddgr1211`.* TO 'gr1211kU96'@'%';
+GRANT SELECT ON `bddgr1211`.* TO 'gr12_admingPxd'@'%';
+CREATE USER 'gr1212KSSE'@'%' IDENTIFIED BY '9BaBpRFU';
 CREATE DATABASE `bddgr1212`;
 GRANT SELECT, UPDATE, TRIGGER, REFERENCES, INSERT
                                         , EVENT, INDEX, DROP, DELETE, EXECUTE, SHOW VIEW
                                         , ALTER, CREATE, CREATE ROUTINE, CREATE TEMPORARY TABLES, CREATE VIEW, ALTER ROUTINE
-                                        ON `bddgr1212`.* TO 'gr1212CqPb'@'%';
-GRANT SELECT ON `bddgr1212`.* TO 'gr12_admin9xXd'@'%';
-CREATE USER 'gr1213kCzr'@'%' IDENTIFIED BY 'kCRvcc86';
+                                        ON `bddgr1212`.* TO 'gr1212KSSE'@'%';
+GRANT SELECT ON `bddgr1212`.* TO 'gr12_admingPxd'@'%';
+CREATE USER 'gr1213nsin'@'%' IDENTIFIED BY 'DhUTJ9He';
 CREATE DATABASE `bddgr1213`;
 GRANT SELECT, UPDATE, TRIGGER, REFERENCES, INSERT
                                         , EVENT, INDEX, DROP, DELETE, EXECUTE, SHOW VIEW
                                         , ALTER, CREATE, CREATE ROUTINE, CREATE TEMPORARY TABLES, CREATE VIEW, ALTER ROUTINE
-                                        ON `bddgr1213`.* TO 'gr1213kCzr'@'%';
-GRANT SELECT ON `bddgr1213`.* TO 'gr12_admin9xXd'@'%';
-CREATE USER 'gr12145Jpc'@'%' IDENTIFIED BY '2qmM7Lk6';
+                                        ON `bddgr1213`.* TO 'gr1213nsin'@'%';
+GRANT SELECT ON `bddgr1213`.* TO 'gr12_admingPxd'@'%';
+CREATE USER 'gr1214qjfS'@'%' IDENTIFIED BY '2akduFqt';
 CREATE DATABASE `bddgr1214`;
 GRANT SELECT, UPDATE, TRIGGER, REFERENCES, INSERT
                                         , EVENT, INDEX, DROP, DELETE, EXECUTE, SHOW VIEW
                                         , ALTER, CREATE, CREATE ROUTINE, CREATE TEMPORARY TABLES, CREATE VIEW, ALTER ROUTINE
-                                        ON `bddgr1214`.* TO 'gr12145Jpc'@'%';
-GRANT SELECT ON `bddgr1214`.* TO 'gr12_admin9xXd'@'%';
+                                        ON `bddgr1214`.* TO 'gr1214qjfS'@'%';
+GRANT SELECT ON `bddgr1214`.* TO 'gr12_admingPxd'@'%';

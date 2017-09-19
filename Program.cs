@@ -35,13 +35,15 @@ namespace MOSWdeploy
             string mySQLOutDir = "Files";
 
             // load existing groups
-            // StudentGroup gr.. = StudentGroup.LoadFromFile("gr..");
+            StudentGroup gr10 = StudentGroup.LoadFromFile("gr10");
+            StudentGroup gr12 = StudentGroup.LoadFromFile("gr12");
 
             // new groups creation
-            StudentGroup gr10=new StudentGroup("gr10",8);
-            StudentGroup gr12=new StudentGroup("gr12",14);
+            // StudentGroup gr10=new StudentGroup("gr10",8);
+            // StudentGroup gr12=new StudentGroup("gr12",14);
 
             // create file backup
+            // gr10.SaveToFile();
             // gr12.SaveToFile();
 
             // FileZilla generation

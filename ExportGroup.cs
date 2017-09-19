@@ -25,29 +25,31 @@ namespace MOSWdeploy
 {
     public class ExportGroup
     {
-        public static void ToCSV(StudentGroup group){
-                        string csvFile = Path.Combine("Files", group.GroupId + ".csv");
-             using (var sw = new StreamWriter(csvFile))
+        public static void ToCSV(StudentGroup group)
+        {
+            string csvFile = Path.Combine("Files", group.GroupId + ".csv");
+            using (var sw = new StreamWriter(csvFile))
             {
-                // Header
-                sw.Write("group name,login,password, dbname");
-                sw.Write(Environment.NewLine);
-                var nb=1;
+                var nb = 1;
                 foreach (var student in group.Students)
                 {
+                    // Header
+                    sw.Write("group name,login,password, dbname");
+                    sw.Write(Environment.NewLine);
+                    // Group credentials
                     sw.Write("Grp. " + nb + ","
                         + student.Login + ","
                         + student.ClearTextPwd + ","
                         + student.DbName);
                     sw.Write(Environment.NewLine);
+                    nb += 1;
                 }
                 sw.Write("Admin grp" + group.GroupId + ","
                        + group.admin.Login + ","
                        + group.admin.ClearTextPwd + ","
                        + "");
                 sw.Write(Environment.NewLine);
-                nb+=1;
-            }            
+            }
         }
 
 

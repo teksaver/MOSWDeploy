@@ -1,16 +1,29 @@
-group name,login,password, dbname
-Grp. 1,gr1201xybj,w5YxYKGZ,bddgr1201
-Grp. 1,gr1202D8qa,nFHcMpyg,bddgr1202
-Grp. 1,gr1203aMiW,yZHFt7YR,bddgr1203
-Grp. 1,gr1204PH9y,RKCq99on,bddgr1204
-Grp. 1,gr1205iJrW,x7244Eyy,bddgr1205
-Grp. 1,gr1206o5nx,oiy2cQov,bddgr1206
-Grp. 1,gr1207SyJb,YDiKHkEZ,bddgr1207
-Grp. 1,gr12083o3B,ooUNkCfh,bddgr1208
-Grp. 1,gr1209nPkN,nUSD62fu,bddgr1209
-Grp. 1,gr1210c8hz,CK9ZC2Ap,bddgr1210
-Grp. 1,gr1211mFzv,ScZp75Bk,bddgr1211
-Grp. 1,gr1212CqPb,w6yXHmg8,bddgr1212
-Grp. 1,gr1213kCzr,kCRvcc86,bddgr1213
-Grp. 1,gr12145Jpc,2qmM7Lk6,bddgr1214
-Admin grpgr12,gr12_admin9xXd,HVmMouGF,
+"group name","login","password"," dbname"
+"Grp. 1","gr1201VnNf","iw9eUjvH","bddgr1201"
+"group name","login","password"," dbname"
+"Grp. 2","gr1202H2vW","bdPpz7nd","bddgr1202"
+"group name","login","password"," dbname"
+"Grp. 3","gr1203xq4D","RxCSuGW2","bddgr1203"
+"group name","login","password"," dbname"
+"Grp. 4","gr12044rGj","ct3zLDQ5","bddgr1204"
+"group name","login","password"," dbname"
+"Grp. 5","gr1205z2MQ","tF4QBSuW","bddgr1205"
+"group name","login","password"," dbname"
+"Grp. 6","gr1206VEzB","gttVgaXm","bddgr1206"
+"group name","login","password"," dbname"
+"Grp. 7","gr1207bTmf","4EXqdcwd","bddgr1207"
+"group name","login","password"," dbname"
+"Grp. 8","gr1208maV9","xgstJKTY","bddgr1208"
+"group name","login","password"," dbname"
+"Grp. 9","gr1209vS7B","ABCBj3jV","bddgr1209"
+"group name","login","password"," dbname"
+"Grp. 10","gr1210xRwB","ZZbz4fjB","bddgr1210"
+"group name","login","password"," dbname"
+"Grp. 11","gr1211kU96","dbaqSrqf","bddgr1211"
+"group name","login","password"," dbname"
+"Grp. 12","gr1212KSSE","9BaBpRFU","bddgr1212"
+"group name","login","password"," dbname"
+"Grp. 13","gr1213nsin","DhUTJ9He","bddgr1213"
+"group name","login","password"," dbname"
+"Grp. 14","gr1214qjfS","2akduFqt","bddgr1214"
+"Admin grpgr12","gr12_admingPxd","r9m69j6K",
