@@ -46,13 +46,10 @@ namespace MOSWdeploy
             this.pathOut = xOut;
             this.baseDirFTP = baseDirFTP;
             this.userTemplate = userTemplate;
-            xmlOut = new XDocument(new XElement("root"));
             try
             {
                 Console.WriteLine("Loading XML config file from " + xIn);
-                XDocument xmlBase = XDocument.Load(xIn);
-                XElement baseRoot = xmlBase.Root;
-                xmlOut.Root.ReplaceAll(baseRoot);
+                xmlOut = XDocument.Load(xIn);
             }
             catch (System.Exception)
             {
